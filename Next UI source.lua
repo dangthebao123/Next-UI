@@ -14,9 +14,9 @@ end
 
 local function C(r, g, b) return Color3.fromRGB(r, g, b) end
 
-local INTRO_ICON = "https://diser.me/nextui/next.png"
-local INTRO_TITLE = "Next Development"
-local INTRO_SUBTITLE = "UI by diser.me/nextui/"
+local INTRO_ICON = "https://chatgpt.com/s/m_6afdbe72937c8191ac7c2f283860d9de"
+local INTRO_TITLE = "Dev by t.Bảo"
+local INTRO_SUBTITLE = "UI by Next UI"
 
 local Themes = {
 	Crimson = { Window = C(19, 19, 19), Side = C(14, 14, 14), Panel = C(17, 17, 17), Card = C(13, 13, 13), Element = C(27, 27, 27), Hover = C(38, 38, 38), Border = C(7, 7, 7), Accent = C(255, 24, 24), Text = C(240, 240, 240), Sub = C(112, 112, 112), Off = C(34, 34, 34) },
